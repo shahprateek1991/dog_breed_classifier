@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Prateek Shah
+description: Dog breed classifier using nueral net
+
+author:
+  name: Prateek Shah
